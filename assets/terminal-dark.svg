@@ -17,7 +17,7 @@ text{font-family:'DejaVu Sans Mono','Liberation Mono',Consolas,monospace;font-si
 <text x="440" y="28" text-anchor="middle" fill="#a0aeb9" style="font-size:12px;letter-spacing:1px">ASHTON WARD / ENGINEERING LOG</text>
 <text x="28" y="91" fill="#e3eaf0" style="animation:reveal 0.55s steps(6,end) 0.15s both"><tspan fill="#8bc9a2">ashton@subnetphantom</tspan><tspan fill="#a0aeb9">:</tspan><tspan fill="#8ebad9">~</tspan><tspan fill="#e3eaf0">$ </tspan>whoami</text>
 <text x="28" y="116" fill="#e3eaf0" style="animation:reveal 0.12s steps(27,end) 0.8s both">Ashton Ward / SubnetPhantom</text>
-<text x="28" y="141" fill="#a0aeb9" style="animation:reveal 0.12s steps(44,end) 0.95s both">QA Engineer | Network Specialist | Homelaber</text>
+<text x="28" y="141" fill="#a0aeb9" style="animation:reveal 0.12s steps(44,end) 0.95s both">QA Engineer | Network Specialist | Homelab Builder</text>
 <text x="28" y="179" fill="#e3eaf0" style="animation:reveal 0.55s steps(15,end) 1.3s both"><tspan fill="#8bc9a2">ashton@subnetphantom</tspan><tspan fill="#a0aeb9">:</tspan><tspan fill="#8ebad9">~</tspan><tspan fill="#e3eaf0">$ </tspan>cat mission.txt</text>
 <text x="28" y="204" fill="#e3eaf0" style="animation:reveal 0.12s steps(30,end) 2.15s both">Build reliable infrastructure.</text>
 <text x="28" y="229" fill="#e3eaf0" style="animation:reveal 0.12s steps(29,end) 2.3s both">Automate the repeatable work.</text>
