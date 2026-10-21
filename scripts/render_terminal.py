@@ -24,7 +24,7 @@ THEMES = {
 ROWS = [
     ("cmd", "whoami", "text", 0.15),
     ("out", "Ashton Ward / SubnetPhantom", "text", 0.8),
-    ("out", "QA Engineer | Network Specialist | Homelab Builder", "muted", 0.95),
+    ("out", "QA Engineer | Network Specialist | Homelaber", "muted", 0.95),
     ("cmd", "cat mission.txt", "text", 1.3),
     ("out", "Build reliable infrastructure.", "text", 2.15),
     ("out", "Automate the repeatable work.", "text", 2.3),
