@@ -119,7 +119,7 @@ def activity_rows(stats):
         lines = [
             (f"[+] current streak          {current} day{'s' if current != 1 else ''}", "green"),
             (f"[+] longest streak (1y)     {stats['longest']} days", "text"),
-            (f"[+] contributions ({stats['year']})  {stats['year_total']:,}", "text"),
+            (f"[+] contributions ({stats['year']})    {stats['year_total']:,}", "text"),
             ("[+] last public push", "muted"),
             (f"    {push}", "blue"),
             (f"[*] status                  {status}", color),
