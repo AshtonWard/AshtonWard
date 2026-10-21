@@ -10,6 +10,8 @@ on:
       - 'scripts/render_terminal.py'
       - 'scripts/test_render_terminal.py'
       - '.github/workflows/refresh-profile.yml'
+      - 'config/skyline.json'
+      - 'scripts/update_skyline.py'
 
 permissions:
   contents: write
@@ -35,11 +37,25 @@ jobs:
         run: |
           python scripts/render_terminal.py --refresh
           python scripts/render_terminal.py --check
+      - name: Generate contribution skyline
+        id: skyline
+        continue-on-error: true
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          USERNAME: AshtonWard
+          SETTING_JSON: config/skyline.json
+      - name: Publish validated skyline in README
+        if: steps.skyline.outcome == 'success'
+        run: python scripts/update_skyline.py
       - name: Commit refreshed assets
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add assets/stats.json assets/terminal-dark.svg assets/terminal-light.svg
+          if [ -f profile-3d-contrib/day.svg ] && [ -f profile-3d-contrib/night.svg ]; then
+            git add profile-3d-contrib/day.svg profile-3d-contrib/night.svg README.md
+          fi
           if ! git diff --cached --quiet; then
             git commit -m 'chore: refresh profile activity'
             git push
