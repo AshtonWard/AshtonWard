@@ -18,31 +18,32 @@ My background combines software testing, Army National Guard network operations,
 
 ## Selected work
 
-### 01 / Infrastructure automation
+<a href="https://github.com/AshtonWard/Ansible"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-ansible-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-ansible-light.svg">
+  <img src="assets/project-ansible-dark.svg" width="49%" alt="Infrastructure automation — public examples in progress. Turning repetitive VM provisioning and Linux configuration into repeatable workflows. Ansible, Proxmox VE, GitHub Actions. Explore Ansible.">
+</picture></a>
+<a href="https://github.com/AshtonWard/Homelab"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-homelab-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-homelab-light.svg">
+  <img src="assets/project-homelab-dark.svg" width="49%" alt="Homelab engineering — public documentation in preparation. Hands-on work in virtualization, segmented networking, secure remote access, and recovery. Linux, OPNsense, Docker, Wazuh. Explore the homelab.">
+</picture></a>
 
-Replacing repetitive homelab administration with repeatable provisioning and configuration. My work connects **Ansible, Proxmox VE, Cloud-Init, and GitHub Actions** to create VMs, configure Linux hosts, and deploy services.
-
-The public repository is where I'm building out generalized examples and documentation from that work.
-
-**[Explore Ansible →](https://github.com/AshtonWard/Ansible)**
-
-### 02 / Homelab engineering
-
-A practical environment for learning how infrastructure behaves beyond installation day: **virtualization, network segmentation, secure remote access, container hosting, and security monitoring**. I use it to practice troubleshooting, recovery, and documenting decisions.
-
-Public documentation is being prepared; the repository is currently a starting point.
-
-**[Homelab documentation →](https://github.com/AshtonWard/Homelab)** · **[Follow the engineering roadmap →](https://github.com/AshtonWard/.github/issues)**
-
-### 03 / Putler
-
-An ongoing project to build a homelab assistant with **Hermes** for investigation, documentation, and guided learning. I'm designing an alert-driven model where monitoring detects incidents, bounded assistants investigate, and consequential changes require human approval.
-
-The incident dispatcher and specialist workflows are planned work, tracked publicly.
-
-**[Explore the incident dispatcher design →](https://github.com/AshtonWard/.github/issues/94)**
+<a href="https://github.com/AshtonWard/.github/issues/94"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-putler-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-putler-light.svg">
+  <img src="assets/project-putler-dark.svg" width="100%" alt="Putler / Homelab assistant — in development; incident workflows planned. A Hermes-based assistant for investigation, documentation, and guided learning. Designing bounded investigations with human approval for consequential changes. Read the dispatcher design.">
+</picture></a>
 
 ## Tools I work with
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" width="28" height="28" alt="Linux logo"> Linux &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/ansible/ansible-original.svg" width="28" height="28" alt="Ansible logo"> Ansible &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="28" height="28" alt="Docker logo"> Docker &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" width="28" height="28" alt="GitHub Actions logo"> GitHub Actions &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/powershell/powershell-original.svg" width="28" height="28" alt="PowerShell logo"> PowerShell
+</p>
 
 | Area | Tools & practices |
 | :--- | :--- |

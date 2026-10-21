@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" role="img" aria-labelledby="title desc">
+<title id="title">Putler / Homelab assistant</title>
+<desc id="desc">Putler / Homelab assistant. IN DEVELOPMENT · INCIDENT WORKFLOWS PLANNED. A Hermes-based assistant for investigation, documentation, and guided learning. Designing bounded investigations with human approval for consequential changes. Hermes · Alert-driven investigation · Evidence-based reporting. Read the dispatcher design →</desc>
+<rect x=".5" y=".5" width="879" height="249" rx="10" fill="#f8fafb" stroke="#d0d7de"/>
+<g fill="none" stroke="#2e7049" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="25" y="28" width="21" height="16" rx="4"/><path d="M35.5 28v-5m-13 10v6m26-6v6m-19-5h2m7 0h2m-9 5h7"/></g>
+<text x="58" y="40" fill="#243540" font-family="'DejaVu Sans',Arial,sans-serif" font-size="19">Putler / Homelab assistant</text>
+<text x="25" y="75" fill="#886018" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="12">IN DEVELOPMENT · INCIDENT WORKFLOWS PLANNED</text>
+<text x="25" y="112" fill="#243540" font-family="'DejaVu Sans',Arial,sans-serif" font-size="16">A Hermes-based assistant for investigation, documentation, and guided learning. Designing</text>
+<text x="25" y="137" fill="#243540" font-family="'DejaVu Sans',Arial,sans-serif" font-size="16">bounded investigations with human approval for consequential changes.</text>
+<text x="25" y="184" fill="#526674" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="12">Hermes · Alert-driven investigation · Evidence-based reporting</text>
+<text x="25" y="223" fill="#315f83" font-family="'DejaVu Sans',Arial,sans-serif" font-size="15">Read the dispatcher design →</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="300" viewBox="0 0 430 300" role="img" aria-labelledby="title desc">
+<title id="title">Infrastructure automation</title>
+<desc id="desc">Infrastructure automation. PUBLIC EXAMPLES IN PROGRESS. Turning repetitive VM provisioning and Linux configuration into repeatable workflows. Ansible · Proxmox VE · GitHub Actions. Explore Ansible →</desc>
+<rect x=".5" y=".5" width="429" height="299" rx="10" fill="#10171d" stroke="#31404b"/>
+<g fill="none" stroke="#8bc9a2" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="25" y="25" width="21" height="18" rx="3"/><path d="m29 30 4 4-4 4m8 0h5"/></g>
+<text x="58" y="40" fill="#e3eaf0" font-family="'DejaVu Sans',Arial,sans-serif" font-size="19">Infrastructure automation</text>
+<text x="25" y="75" fill="#e2bb79" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="12">PUBLIC EXAMPLES IN PROGRESS</text>
+<text x="25" y="130" fill="#e3eaf0" font-family="'DejaVu Sans',Arial,sans-serif" font-size="16">Turning repetitive VM provisioning and</text>
+<text x="25" y="155" fill="#e3eaf0" font-family="'DejaVu Sans',Arial,sans-serif" font-size="16">Linux configuration into repeatable</text>
+<text x="25" y="180" fill="#e3eaf0" font-family="'DejaVu Sans',Arial,sans-serif" font-size="16">workflows.</text>
+<text x="25" y="234" fill="#a0aeb9" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="12">Ansible · Proxmox VE · GitHub Actions</text>
+<text x="25" y="273" fill="#8ebad9" font-family="'DejaVu Sans',Arial,sans-serif" font-size="15">Explore Ansible →</text>
+</svg>
