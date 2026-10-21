@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg">
-  <img src="assets/terminal-dark.svg" alt="Ashton Ward / SubnetPhantom. QA Engineer, Network Specialist, Homelab Builder. Build reliable infrastructure. Automate the repeatable work. Understand what happens underneath." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg?v=homelab-builder-2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg?v=homelab-builder-2">
+  <img src="assets/terminal-dark.svg?v=homelab-builder-2" alt="Ashton Ward / SubnetPhantom. QA Engineer, Network Specialist, Homelab Builder. Build reliable infrastructure. Automate the repeatable work. Understand what happens underneath." width="100%">
 </picture>
 
 <sub>Activity refreshes every six hours. Streaks use the trailing year and UTC dates; contribution counts reflect GitHub's visibility rules. Latest push uses public events only.</sub>
