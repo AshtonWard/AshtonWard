@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="880" height="474" viewBox="0 0 880 474" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="880" height="537" viewBox="0 0 880 537" role="img" aria-labelledby="title desc">
 <title id="title">Ashton Ward — engineering profile</title>
 <desc id="desc">Terminal introduction: QA Engineer, Network Specialist, Homelab Builder. Build reliable infrastructure. Automate the repeatable work. Understand what happens underneath. Projects: Ansible automation, homelab, Putler.</desc>
 <!-- A small source-only capture: flag{understand_automate_verify} -->
@@ -8,7 +8,7 @@ text{font-family:'DejaVu Sans Mono','Liberation Mono',Consolas,monospace;font-si
 @keyframes cursor{0%,100%{opacity:1}50%{opacity:0}}
 @media(prefers-reduced-motion:reduce){text,rect{animation:none!important}}
 </style>
-<rect x=".5" y=".5" width="879" height="473" rx="12" fill="#10171d" stroke="#31404b"/>
+<rect x=".5" y=".5" width="879" height="536" rx="12" fill="#10171d" stroke="#31404b"/>
 <path d="M1 45V13Q1 1 13 1H867Q879 1 879 13V45Z" fill="#19232b"/>
 <path d="M1 45H879" stroke="#31404b"/>
 <circle cx="25" cy="23" r="5" fill="#8bc9a2"/>
@@ -26,7 +26,9 @@ text{font-family:'DejaVu Sans Mono','Liberation Mono',Consolas,monospace;font-si
 <text x="28" y="317" fill="#8ebad9" style="animation:reveal 0.12s steps(40,end) 3.55s both">ansible-automation/   homelab/   putler/</text>
 <text x="28" y="355" fill="#e3eaf0" style="animation:reveal 0.55s steps(13,end) 3.9s both"><tspan fill="#8bc9a2">ashton@subnetphantom</tspan><tspan fill="#a0aeb9">:</tspan><tspan fill="#8ebad9">~</tspan><tspan fill="#e3eaf0">$ </tspan>cat focus.txt</text>
 <text x="28" y="380" fill="#e2bb79" style="animation:reveal 0.12s steps(47,end) 4.65s both">infrastructure  /  automation  /  observability</text>
-<text x="28" y="418" fill="#e3eaf0" style="animation:reveal 0.12s steps(1,end) 4.9s both"><tspan fill="#8bc9a2">ashton@subnetphantom</tspan><tspan fill="#a0aeb9">:</tspan><tspan fill="#8ebad9">~</tspan><tspan fill="#e3eaf0">$ </tspan></text>
-<rect x="242" y="405" width="8" height="16" rx="1" fill="#8bc9a2" style="animation:cursor 1s step-end 4.9s 3 both"/>
-<text x="852" y="454" text-anchor="end" fill="#a0aeb9" style="font-size:10px;letter-spacing:1px">BUILD / UNDERSTAND / IMPROVE</text>
+<text x="28" y="418" fill="#e3eaf0" style="animation:reveal 0.55s steps(17,end) 4.9s both"><tspan fill="#8bc9a2">ashton@subnetphantom</tspan><tspan fill="#a0aeb9">:</tspan><tspan fill="#8ebad9">~</tspan><tspan fill="#e3eaf0">$ </tspan>./streak --status</text>
+<text x="28" y="443" fill="#a0aeb9" style="animation:reveal 0.12s steps(51,end) 5.65s both">Activity stats awaiting their first GitHub refresh.</text>
+<text x="28" y="481" fill="#e3eaf0" style="animation:reveal 0.12s steps(1,end) 6.35s both"><tspan fill="#8bc9a2">ashton@subnetphantom</tspan><tspan fill="#a0aeb9">:</tspan><tspan fill="#8ebad9">~</tspan><tspan fill="#e3eaf0">$ </tspan></text>
+<rect x="242" y="468" width="8" height="16" rx="1" fill="#8bc9a2" style="animation:cursor 1s step-end 6.35s 3 both"/>
+<text x="852" y="519" text-anchor="end" fill="#a0aeb9" style="font-size:10px;letter-spacing:1px">STATS / PENDING FIRST REFRESH</text>
 </svg>

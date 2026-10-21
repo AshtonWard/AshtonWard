@@ -4,6 +4,8 @@
   <img src="assets/terminal-dark.svg" alt="Ashton Ward / SubnetPhantom. QA Engineer, Network Specialist, Homelab Builder. Build reliable infrastructure. Automate the repeatable work. Understand what happens underneath." width="100%">
 </picture>
 
+<sub>Activity refreshes every six hours. Streaks use the trailing year and UTC dates; contribution counts reflect GitHub's visibility rules. Latest push uses public events only.</sub>
+
 # Ashton Ward
 
 **Quality Assurance Engineer · Army National Guard Network Specialist · Homelab Builder**
