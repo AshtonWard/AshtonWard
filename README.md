@@ -42,6 +42,21 @@ The incident dispatcher and specialist workflows are planned work, tracked publi
 
 **[Explore the incident dispatcher design →](https://github.com/AshtonWard/.github/issues/94)**
 
+<!--SKYLINE:START-->
+<details>
+<summary>Contribution skyline — explore the 3D calendar</summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/night.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/day.svg">
+  <img src="profile-3d-contrib/night.svg" width="100%" alt="Ashton Ward's contribution calendar rendered as a 3D skyline. Taller blocks represent more contributions on a day; accompanying charts summarize contribution types and languages.">
+</picture>
+
+<sub>Generated from GitHub activity; refreshes with the terminal stats every six hours. Built with <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>.</sub>
+
+</details>
+<!--SKYLINE:END-->
+
 ## Tools I work with
 
 | Area | Tools & practices |
