@@ -17,7 +17,7 @@ text{font-family:'DejaVu Sans Mono','Liberation Mono',Consolas,monospace;font-si
 <text x="440" y="28" text-anchor="middle" fill="#526674" style="font-size:12px;letter-spacing:1px">ASHTON WARD / ENGINEERING LOG</text>
 <text x="28" y="91" fill="#243540" style="animation:reveal 0.55s steps(6,end) 0.15s both"><tspan fill="#2e7049">ashton@subnetphantom</tspan><tspan fill="#526674">:</tspan><tspan fill="#315f83">~</tspan><tspan fill="#243540">$ </tspan>whoami</text>
 <text x="28" y="116" fill="#243540" style="animation:reveal 0.12s steps(27,end) 0.8s both">Ashton Ward / SubnetPhantom</text>
-<text x="28" y="141" fill="#526674" style="animation:reveal 0.12s steps(50,end) 0.95s both">QA Engineer | Network Specialist | Homelab Builder</text>
+<text x="28" y="141" fill="#526674" style="animation:reveal 0.12s steps(44,end) 0.95s both">QA Engineer | Network Specialist | Homelaber</text>
 <text x="28" y="179" fill="#243540" style="animation:reveal 0.55s steps(15,end) 1.3s both"><tspan fill="#2e7049">ashton@subnetphantom</tspan><tspan fill="#526674">:</tspan><tspan fill="#315f83">~</tspan><tspan fill="#243540">$ </tspan>cat mission.txt</text>
 <text x="28" y="204" fill="#243540" style="animation:reveal 0.12s steps(30,end) 2.15s both">Build reliable infrastructure.</text>
 <text x="28" y="229" fill="#243540" style="animation:reveal 0.12s steps(29,end) 2.3s both">Automate the repeatable work.</text>
@@ -29,11 +29,11 @@ text{font-family:'DejaVu Sans Mono','Liberation Mono',Consolas,monospace;font-si
 <text x="28" y="418" fill="#243540" style="animation:reveal 0.55s steps(17,end) 4.9s both"><tspan fill="#2e7049">ashton@subnetphantom</tspan><tspan fill="#526674">:</tspan><tspan fill="#315f83">~</tspan><tspan fill="#243540">$ </tspan>./streak --status</text>
 <text x="28" y="443" fill="#2e7049" style="animation:reveal 0.12s steps(34,end) 5.65s both">[+] current streak          3 days</text>
 <text x="28" y="468" fill="#243540" style="animation:reveal 0.12s steps(34,end) 5.75s both">[+] longest streak (1y)     3 days</text>
-<text x="28" y="493" fill="#243540" style="animation:reveal 0.12s steps(31,end) 5.8500000000000005s both">[+] contributions (2026)    133</text>
+<text x="28" y="493" fill="#243540" style="animation:reveal 0.12s steps(31,end) 5.8500000000000005s both">[+] contributions (2026)    134</text>
 <text x="28" y="518" fill="#526674" style="animation:reveal 0.12s steps(20,end) 5.95s both">[+] last public push</text>
 <text x="28" y="543" fill="#315f83" style="animation:reveal 0.12s steps(32,end) 6.050000000000001s both">    none in recent public events</text>
 <text x="28" y="568" fill="#886018" style="animation:reveal 0.12s steps(37,end) 6.15s both">[*] status                  beaconing</text>
 <text x="28" y="606" fill="#243540" style="animation:reveal 0.12s steps(1,end) 6.35s both"><tspan fill="#2e7049">ashton@subnetphantom</tspan><tspan fill="#526674">:</tspan><tspan fill="#315f83">~</tspan><tspan fill="#243540">$ </tspan></text>
 <rect x="242" y="593" width="8" height="16" rx="1" fill="#2e7049" style="animation:cursor 1s step-end 6.35s 3 both"/>
-<text x="852" y="644" text-anchor="end" fill="#526674" style="font-size:10px;letter-spacing:1px">STATS / 2026-10-21 14:36 UTC</text>
+<text x="852" y="644" text-anchor="end" fill="#526674" style="font-size:10px;letter-spacing:1px">STATS / 2026-10-21 14:46 UTC</text>
 </svg>
