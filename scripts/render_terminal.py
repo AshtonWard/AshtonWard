@@ -145,7 +145,8 @@ def render(theme):
         else:
             text = escape(value)
         duration = 0.55 if kind == "cmd" else 0.12
-        # clip-path reveals a line once. Without CSS support the final text stays visible.
+        # Remove the clip entirely at the end so glyph overhangs and browser
+        # animation rounding cannot cut off the last character.
         style = f"animation:reveal {duration}s steps({max(len(value), 1)},end) {delay}s both"
         items.append(f'<text x="28" y="{y}" fill="{c[color]}" style="{style}">{text}</text>')
         if kind == "end":
@@ -159,7 +160,7 @@ def render(theme):
 <!-- A small source-only capture: flag{{understand_automate_verify}} -->
 <style>
 text{{font-family:'DejaVu Sans Mono','Liberation Mono',Consolas,monospace;font-size:15px;white-space:pre}}
-@keyframes reveal{{from{{clip-path:inset(0 100% 0 0)}}to{{clip-path:inset(0 0 0 0)}}}}
+@keyframes reveal{{0%{{clip-path:inset(0 100% 0 0)}}99.9%{{clip-path:inset(-0.25em 0 -0.25em 0)}}100%{{clip-path:none}}}}
 @keyframes cursor{{0%,100%{{opacity:1}}50%{{opacity:0}}}}
 @media(prefers-reduced-motion:reduce){{text,rect{{animation:none!important}}}}
 </style>
@@ -200,3 +201,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
