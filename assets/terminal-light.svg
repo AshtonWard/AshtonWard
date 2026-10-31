@@ -35,5 +35,5 @@ text{font-family:'DejaVu Sans Mono','Liberation Mono',Consolas,monospace;font-si
 <text x="28" y="568" fill="#526674" style="animation:reveal 0.12s steps(35,end) 6.15s both">[*] status                  dormant</text>
 <text x="28" y="606" fill="#243540" style="animation:reveal 0.12s steps(1,end) 6.35s both"><tspan fill="#2e7049">ashton@subnetphantom</tspan><tspan fill="#526674">:</tspan><tspan fill="#315f83">~</tspan><tspan fill="#243540">$ </tspan></text>
 <rect x="242" y="593" width="8" height="16" rx="1" fill="#2e7049" style="animation:cursor 1s step-end 6.35s 3 both"/>
-<text x="852" y="644" text-anchor="end" fill="#526674" style="font-size:10px;letter-spacing:1px">STATS / 2026-10-31 05:51 UTC</text>
+<text x="852" y="644" text-anchor="end" fill="#526674" style="font-size:10px;letter-spacing:1px">STATS / 2026-10-31 12:40 UTC</text>
 </svg>
