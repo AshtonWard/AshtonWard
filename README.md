@@ -14,7 +14,7 @@ I test distributed payment systems professionally and build infrastructure in my
 
 My background combines software testing, Army National Guard network operations, and a **B.S. in Computer Science, Security & Privacy option**. I'm focused on growing toward infrastructure engineering and DevOps through hands-on work in networking, Linux, and automation.
 
-[Explore my work](#selected-work) · [Current roadmap](https://github.com/AshtonWard/.github/issues) · [Ask a question](https://github.com/AshtonWard/.github/issues/new)
+**[Portfolio / Website →](https://ashtonward.github.io/Portfolio/)** · [Explore my work](#selected-work) · [Current roadmap](https://github.com/AshtonWard/.github/issues) · [Ask a question](https://github.com/AshtonWard/.github/issues/new)
 
 ## Selected work
 
